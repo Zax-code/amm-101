@@ -1,4 +1,5 @@
 # AMM 101
+UNISWAP Version 2
 
 ## Introduction
 Welcome! This is an automated workshop that will guide you into using Uniswap and doing a simple integration in a smart contract.
